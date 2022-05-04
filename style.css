@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+}
+
+@font-face {
+  font-family: Montserrat Regular;
+  src: url(fonts/Montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+  font-family: Montserrat Bolde;
+  src: url(fonts/Montserrat/Montserrat-Bold.ttf);
+}
+
+p {
+  font-family: Montserrat Regular;
+}
+
+#verde {
+  font-family: Montserrat Bolde;
+  color: #11c76f;
+}
+
+#enviado {
+  line-height: 171%;
+}
+
+#regulamentação {
+  padding: 0px 28px 0px 28px;
+  font-size: 11px;
+  font-weight: 300px;
+}
+
+#p1 {
+  font-family: Montserrat Regular;
+  line-height: 17.07px;
+  font-size: 14px;
+  text-align: center;
+  color: #223322;
+  padding: 0px 70px 0px 100px;
+  margin-top: 13.87px;
+  margin-bottom: 17.23px;
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+span {
+  font-family: Montserrat Bolde;
+}
+
+#menfinal {
+  font-size: 12px;
+  color: #11c77f;
+}
+
+.linksverdes {
+  color: #11c76f;
+}
+
+#ifood {
+  margin: 0 175px 29px 174px;
+}
+
+#creditos {
+  line-height: 17px;
+  font-family: Montserrat Bolde;
+}
+
+.redes {
+  margin: 0px 5px;
+  padding-bottom: 44px;
+  width: 40px;
+}
+
+#foto3 {
+  width: 380px;
+  padding-bottom: 44px;
+}
